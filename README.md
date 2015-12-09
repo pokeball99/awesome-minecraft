@@ -18,7 +18,7 @@ The latest supported and tested version for the work is listed in italic at the 
 ##Maps
 
 - [Diversity 2](http://www.minecraftforum.net/forums/mapping-and-modding/maps/2200445-1-8-8-diversity-2-also-available-on-realms) - A multi-genre CTM map with 10 branches, and loads of fun. 2-3 players recommended. *1.8.8*
-- d
+- [Ultra-Wireless Parkour 2](http://www.minecraftforum.net/forums/mapping-and-modding/maps/2233156-the-sequel-to-the-2000-downloads-map-ultra) - A very high quality and well-built parkour map with many levels and map-building tools. *1.8.8*
 
 ##Mods
 
@@ -33,6 +33,7 @@ The latest supported and tested version for the work is listed in italic at the 
 ##Modded Clients
 
 - [Wurst](https://www.wurst-client.tk/) - A big and mature competitor in the world of modded clients, this one packs many hacks and client-side commands along with a nice management interface. Also supports additional mods. *1.8.8*
+- [KiLO](https://kiloclient.com/) - A newer but high-quality modded client without hacks (fair play). This one specializes in the UI/UX and integration department. *1.8.8*
 
 ##Resource Packs
 
