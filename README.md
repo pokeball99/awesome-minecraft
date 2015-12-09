@@ -5,12 +5,14 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend. You might also like [awesome-games](https://github.com/leereilly/games).*
 
 CTM is a gametype and stands for Complete the Monument.
-The latest supported and tested version for the work is listed at the end of each entry. Snapshot versions are displayed just like a normal version.
+The latest supported and tested version for the work is listed in italic at the end of each entry. Snapshot versions are displayed just like a normal version.
 
 ##Table of Contents
 
 - [Maps](#maps)
 - [Mods](#mods)
+- [Mod Loaders](#mod-loaders)
+- [Modded Clients](#modded-clients)
 - [Resource Packs](#resource-packs)
 
 ##Maps
@@ -21,6 +23,16 @@ The latest supported and tested version for the work is listed at the end of eac
 ##Mods
 
 - [Pixelmon](https://pixelmonmod.com/) - Pokémon, in Minecraft! Better than Pokémon in some ways, and overall a quality and stable mod. *1.8*
+
+##Mod Loaders
+
+- [Forge](http://files.minecraftforge.net/) - The biggest and most dominant mod loader by far. Supports the vast majority of mods, however, there are some disadvantages, mainly concerning stability and speed. *1.8*
+- [LiteLoader](http://www.liteloader.com/) - The other biggest mod loader. LiteLoader does not provide APIs for modding the Minecraft engine, and thus is less capable than Forge, but is lighter, more stable (nearly never crashes), and updates faster. *1.8*
+- [Meddle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2488387-meddle-minecraft-tweakclass-mod-loader-1-9) - A plain LaunchWrapper and TweakClass mod loader. This one is the lightest, newest, and thus has stands out, because it is not version-dependent. Works on all versions starting with 1.6 (new launcher), however, mods must perform deobfuscation themselves. *Any Version*
+
+##Modded Clients
+
+- [Wurst](https://www.wurst-client.tk/) - A big and mature competitor in the world of modded clients, this one packs many hacks and client-side commands along with a nice management interface. Also supports additional mods. *1.8.8*
 
 ##Resource Packs
 
