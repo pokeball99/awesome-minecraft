@@ -2,4 +2,4 @@
 
 > Awesome maps, resource packs, mods, and more for the game Minecraft.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend. You might also like [awesome-games](https://github.com/leereilly/games).
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list trend. You might also like [awesome-games](https://github.com/leereilly/games).*
