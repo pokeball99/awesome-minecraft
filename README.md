@@ -29,11 +29,13 @@ The latest supported and tested version for the work is listed in italic at the 
 - [Forge](http://files.minecraftforge.net/) - The biggest and most dominant mod loader by far. Supports the vast majority of mods, however, there are some disadvantages, mainly concerning stability and speed. *1.8*
 - [LiteLoader](http://www.liteloader.com/) - The other biggest mod loader. LiteLoader does not provide APIs for modding the Minecraft engine, and thus is less capable than Forge, but is lighter, more stable (nearly never crashes), and updates faster. *1.8*
 - [Meddle](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2488387-meddle-minecraft-tweakclass-mod-loader-1-9) - A plain LaunchWrapper and TweakClass mod loader. This one is the lightest, newest, and thus has stands out, because it is not version-dependent. Works on all versions starting with 1.6 (new launcher), however, mods must perform deobfuscation themselves. *Any Version*
+- [ModLoader](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272333-risugamis-mods-updated) - An old, dead, and deprecated loader for the old days. Mostly alive during the pre-1.6 days (before the new launcher). A little more hacked together due to class file use. *1.6.2*
 
-##Modded Clients
+##Modded Clients *(use at your own risk)*
 
 - [Wurst](https://www.wurst-client.tk/) - A big and mature competitor in the world of modded clients, this one packs many hacks and client-side commands along with a nice management interface. Also supports additional mods. *1.8.8*
 - [KiLO](https://kiloclient.com/) - A newer but high-quality modded client without hacks (fair play). This one specializes in the UI/UX and integration department. *1.8.8*
+- [Wolfram](http://shadowspl0it.com/) - Another hacked client known as the "best client" for Minecraft which has a very good GUI, NoCheatPlus bypassing, and many hacks. *1.8.8*
 
 ##Resource Packs
 
