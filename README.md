@@ -9,11 +9,17 @@ The latest supported and tested version for the work is listed in italic at the 
 
 ##Table of Contents
 
+- [Popular Public Servers](#popular-public-servers)
 - [Maps](#maps)
 - [Mods](#mods)
 - [Mod Loaders](#mod-loaders)
 - [Modded Clients](#modded-clients)
 - [Resource Packs](#resource-packs)
+
+##Popular Public Servers
+
+- [Minecraft Server List](http://minecraftservers.org/) - The most trusted list of servers. The list is very big, and grows to over 1000. Look here for more servers!
+- [Mineplex](http://www.mineplex.com/) - The largest Minecraft server network in the world. Many unique and special games are hosted here, as well as Mineplex Player Servers. There's something for everyone!
 
 ##Maps
 
@@ -36,7 +42,7 @@ The latest supported and tested version for the work is listed in italic at the 
 - [Wurst](https://www.wurst-client.tk/) - A big and mature competitor in the world of modded clients, this one packs many hacks and client-side commands along with a nice management interface. Also supports additional mods. *1.8.8*
 - [KiLO](https://kiloclient.com/) - A newer but high-quality modded client without hacks (fair play). This one specializes in the UI/UX and integration department. *1.8.8*
 - [Wolfram](http://shadowspl0it.com/) - Another hacked client known as the "best client" for Minecraft which has a very good GUI, NoCheatPlus bypassing, and many hacks. *1.8.8*
-- [Xenon](http://www.minecrafthackedclients.com/xenon/) - The Xenon Hacked Client, by the Ownage Development Team, is a client designed with the user in mind. With an ultra-premium theme, exclusive hacks, uber flexibility, dirty underwear and next-generation mods, Xenon really stands apart in the crowd. *1.8.x*
+- [Xenon](http://www.minecrafthackedclients.com/xenon/) - The Xenon Hacked Client, by the Ownage Development Team, is a client designed with the user in mind. With an ultra-premium theme, exclusive hacks, uber flexibility and next-generation mods, Xenon really stands apart in the crowd. *1.8.x*
 
 ##Resource Packs
 
