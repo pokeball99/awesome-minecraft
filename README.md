@@ -15,6 +15,7 @@ The latest supported and tested version for the work is listed in italic at the 
 - [Mod Loaders](#mod-loaders)
 - [Modded Clients](#modded-clients)
 - [Resource Packs](#resource-packs)
+- [Tools](#tools)
 
 ##Popular Public Servers
 
@@ -47,3 +48,7 @@ The latest supported and tested version for the work is listed in italic at the 
 ##Resource Packs
 
 - [Lithos](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244691-32x-lithos-default-style-detailed-1-8-1-9) - "Obviousness, Consistency, Beauty": very true. Lithos loads very quickly, is light on your system, and provides very consistent and recognizable textures. *1.9*
+
+##Tools
+- [MCEdit Unified](https://github.com/Khroki/MCEdit-Unified) - The actively developed and maintained fork of MCEdit 1.0, as the creator has moved on to MCEdit 2.0. Uses pygame. *MCPE 0.13.0, 1.9*
+- [Minecraft Chat](https://github.com/rom1504/MinecraftChat) - A cool online, web-based chat client for Minecraft that lets you connect to regular servers and chat like any other player, from your browser.
