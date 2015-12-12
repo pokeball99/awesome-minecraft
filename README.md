@@ -9,6 +9,7 @@ The latest supported and tested version for the work is listed in italic at the 
 
 ##Table of Contents
 
+- [Websites](#websites)
 - [Popular Public Servers](#popular-public-servers)
 - [Maps](#maps)
 - [Mods](#mods)
@@ -16,6 +17,13 @@ The latest supported and tested version for the work is listed in italic at the 
 - [Modded Clients](#modded-clients)
 - [Resource Packs](#resource-packs)
 - [Tools](#tools)
+- [Server Software](#server-software)
+
+##Websites
+
+- [Minecraft Wiki](http://minecraft.gamepedia.com/Minecraft_Wiki) - The official Gamepedia Minecraft wiki, with info on all editions and versions of Minecraft, as well as historical and glitch information. With crafting recipes, too. *all, any*
+- [Mojang](http://mojang.com/) - Here you can find info on all the latest Minecraft trends and news, such as new versions, new trailers, updates, featured worlds and builds, and more. *all, any*
+- [Wiki.vg](http://wiki.vg/Main_Page) - A developer and coder's favorite site for Minecraft info. Learn more about the internal workings, deobfuscation, rebfuscation, decompilation, recompilation, and the protocol details here. *1.8*
 
 ##Popular Public Servers
 
@@ -48,7 +56,15 @@ The latest supported and tested version for the work is listed in italic at the 
 ##Resource Packs
 
 - [Lithos](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244691-32x-lithos-default-style-detailed-1-8-1-9) - "Obviousness, Consistency, Beauty": very true. Lithos loads very quickly, is light on your system, and provides very consistent and recognizable textures. *1.9*
+- [oCd](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1233891-ocd-pack-by-disco-1-8) - A simple, 16x resource pack with very light and very basic textures. Looks more like pixel art from the 90s. *1.8.8*
+- [Faithful](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8) - A double resolution texture pack that stays faithful to the original Minecraft textures. A 32x pack that remains consistent with very high quality, while keeping the vanilla textures' recognizability.
 
 ##Tools
 - [MCEdit Unified](https://github.com/Khroki/MCEdit-Unified) - The actively developed and maintained fork of MCEdit 1.0, as the creator has moved on to MCEdit 2.0. Uses pygame. *MCPE 0.13.0, 1.9*
 - [Minecraft Chat](https://github.com/rom1504/MinecraftChat) - A cool online, web-based chat client for Minecraft that lets you connect to regular servers and chat like any other player, from your browser.
+
+##Server Software
+
+- [Spigot]()
+- [Torch]()
+- []
