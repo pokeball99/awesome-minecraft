@@ -51,7 +51,6 @@ The latest supported and tested version for the work is listed in italic at the 
 - [Wurst](https://www.wurst-client.tk/) - A big and mature competitor in the world of modded clients, this one packs many hacks and client-side commands along with a nice management interface. Also supports additional mods. *1.8.8*
 - [KiLO](https://kiloclient.com/) - A newer but high-quality modded client without hacks (fair play). This one specializes in the UI/UX and integration department. *1.8.8*
 - [Wolfram](http://shadowspl0it.com/) - Another hacked client known as the "best client" for Minecraft which has a very good GUI, NoCheatPlus bypassing, and many hacks. *1.8.8*
-- [Xenon](http://www.minecrafthackedclients.com/xenon/) - The Xenon Hacked Client, by the Ownage Development Team, is a client designed with the user in mind. With an ultra-premium theme, exclusive hacks, uber flexibility and next-generation mods, Xenon really stands apart in the crowd. *1.8.x*
 
 ##Resource Packs
 
@@ -60,11 +59,12 @@ The latest supported and tested version for the work is listed in italic at the 
 - [Faithful](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8) - A double resolution texture pack that stays faithful to the original Minecraft textures. A 32x pack that remains consistent with very high quality, while keeping the vanilla textures' recognizability.
 
 ##Tools
-- [MCEdit Unified](https://github.com/Khroki/MCEdit-Unified) - The actively developed and maintained fork of MCEdit 1.0, as the creator has moved on to MCEdit 2.0. Uses pygame. *MCPE 0.13.0, 1.9*
+- [MCEdit Unified](https://github.com/Khroki/MCEdit-Unified) - The actively developed and maintained fork of MCEdit 1.0, as the original creator has moved on to MCEdit 2.0. Uses pygame. *MCPE 0.13.0, 1.9*
 - [Minecraft Chat](https://github.com/rom1504/MinecraftChat) - A cool online, web-based chat client for Minecraft that lets you connect to regular servers and chat like any other player, from your browser.
 
 ##Server Software
 
-- [Spigot]()
-- [Torch]()
-- []
+- [Spigot](https://www.spigotmc.org/) - Spigot is one of the only few CraftBukkit forks that have survived and still holds CraftBukkit code. This is the most used server software of all servers (including all servers listed here), which is amazing after the DMCA takedown of Bukkit. *1.8, 1.9 [experimental]*
+- [Torch](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/2564680-1-8-9-torch-project-a-multi-threaded-minecraft) - Project Torch, a open-source multi-threaded Minecraft server that supports "plugins" and includes the Torch API, as well as support (?) for Bukkit plugins. This needs a lot more love! *1.8*
+- [Sponge](https://www.spongepowered.org/) - The new and modern modding API for the server and client side. Sponge is a combination of a new API (based off of Spout/Flow’s APIs) implemented on top of Forge, with assistance from other parts of Minecraft’s modding community (Glowstone, Cauldron, Spout, etc.). *DEVELOPMENT 1.8*
+
