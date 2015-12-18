@@ -23,7 +23,7 @@ The latest supported and tested version for the work is listed in italic at the 
 
 - [Minecraft Wiki](http://minecraft.gamepedia.com/Minecraft_Wiki) - The official Gamepedia Minecraft wiki, with info on all editions and versions of Minecraft, as well as historical and glitch information. With crafting recipes, too. *all, any*
 - [Mojang](http://mojang.com/) - Here you can find info on all the latest Minecraft trends and news, such as new versions, new trailers, updates, featured worlds and builds, and more. *all, any*
-- [Wiki.vg](http://wiki.vg/Main_Page) - A developer and coder's favorite site for Minecraft info. Learn more about the internal workings, deobfuscation, rebfuscation, decompilation, recompilation, and the protocol details here. *1.8*
+- [Wiki.vg](http://wiki.vg/Main_Page) - A developer and coder's favorite site for Minecraft info. Learn more about the internal workings, deobfuscation, rebfuscation, decompilation, recompilation, and the protocol details here. *all, any*
 
 ##Popular Public Servers
 
