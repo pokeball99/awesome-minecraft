@@ -28,7 +28,16 @@ The latest supported and tested version for the work is listed in italic at the 
 ##Popular Public Servers
 
 - [Minecraft Server List](http://minecraftservers.org/) - The most trusted list of servers. The list is very big, and grows to over 1000. Look here for more servers!
-- [Mineplex](http://www.mineplex.com/) - The largest Minecraft server network in the world. Many unique and special games are hosted here, as well as Mineplex Player Servers. There's something for everyone!
+- [Mineplex](http://www.mineplex.com/) - The largest Minecraft server network in the world. Many unique and special games are hosted here, as well as Mineplex Player Servers. There's something for everyone! *1.8.x, 1.7.x*
+- [Hypixel](https://hypixel.net/) - Another famous and large server network now updated to pure 1.8.x, with many fun games, effects, and more. Much smaller than Mineplex. *1.8.x*
+
+###Factions and PvP
+
+- [Origin](http://originmc.org/) - The largest factions-exclusive server in Minecraft, featuring way plenty of land, fun, and raiding. You have to venture out pretty far to find wilderness to claim, but it's worth it! *1.8.x*
+- [GotPvP Network](http://gotpvp.com/) - A very large PvP-exclusive server network including Factions, Skyblock, Skywars, and much more. GotPvP has proved its reliability and avalibility for long, and is very mature. *1.8.x*
+
+###My SkyBlock
+- [Dragonland Skyblock](adragon.us.to) - Dragonland Skyblock, now 24/7! This server runs on Cuberite, so you get very high performance due to the nature of C++. Cuberite implements many mechanics, such as redstone, crafting, inventory, smelting, farming, mining, mobs and entities, and much more for a smooth survival experience. Go ahead and issue `/skyblock play` to start playing! ADDRESS: `adragon.us.to` *1.8.x, 1.7.x*
 
 ##Maps
 
@@ -61,10 +70,15 @@ The latest supported and tested version for the work is listed in italic at the 
 ##Tools
 - [MCEdit Unified](https://github.com/Khroki/MCEdit-Unified) - The actively developed and maintained fork of MCEdit 1.0, as the original creator has moved on to MCEdit 2.0. Uses pygame. *MCPE 0.13.0, 1.9*
 - [Minecraft Chat](https://github.com/rom1504/MinecraftChat) - A cool online, web-based chat client for Minecraft that lets you connect to regular servers and chat like any other player, from your browser.
+- [Minecraft Console Client](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/1263927-win-mac-linux-minecraft-console-client-1-8-3) - A chat-only lightweight Minecraft client in your console for those occasions where you don't want to start a whole, new, big, resource-hogging Minecraft, and just want to type some commands or chat. Includes chatbots and a chatlogger, and is written in C# (runs on .NET and Mono). *1.8.3*
 
 ##Server Software
 
-- [Spigot](https://www.spigotmc.org/) - Spigot is one of the only few CraftBukkit forks that have survived and still holds CraftBukkit code. This is the most used server software of all servers (including all servers listed here), which is amazing after the DMCA takedown of Bukkit. *1.8, 1.9 [experimental]*
+- [Spigot](https://www.spigotmc.org/) - Spigot is one of the only few CraftBukkit forks that have survived and still holds CraftBukkit code. This is the most used server software of all servers (including all popular servers listed here), which is nice after the DMCA takedown of Bukkit. *1.8, 1.9 [experimental]*
 - [Torch](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/2564680-1-8-9-torch-project-a-multi-threaded-minecraft) - Project Torch, a open-source multi-threaded Minecraft server that supports "plugins" and includes the Torch API, as well as support (?) for Bukkit plugins. This needs a lot more love! *1.8*
 - [Sponge](https://www.spongepowered.org/) - The new and modern modding API for the server and client side. Sponge is a combination of a new API (based off of Spout/Flow’s APIs) implemented on top of Forge, with assistance from other parts of Minecraft’s modding community (Glowstone, Cauldron, Spout, etc.). *DEVELOPMENT 1.8*
-
+- [SportBukkit](https://github.com/OvercastNetwork/SportBukkit) - A direct fork of CraftBukkit updated for 1.8.7, with performance and aesthetic improvements. Also a project that contains Bukkit code. *1.8.7*
+- [PyMineserver](https://github.com/Armored-Dragon/pymineserver) - The first fully functional Minecraft Modern server written in Python, using `quarry`. Supports 1.8.x and 1.7.5+ protocols. VERY WIP! *1.8.x, made by list author*
+- [PaperSpigot](https://hub.spigotmc.org/stash/projects/PAPER/repos/paperspigot/browse) - A fork of Spigot updated to 1.8.8 just like Spigot, with fixes for gameplay and mechanics inconsistencies and performance improvements. *1.8.8*
+- [Glowstone++](http://glowstoneplusplus.github.io) - The successor and actively developed Glowstone fork that aims to feature everything the vanilla server has, and even more. Extremely close. This server supports the latest Bukkit 1.8.8 APIs and is 100% open-source and written from scratch. *1.8.8*
+- [Cuberite/MCServer](http://cuberite.org/) - Another 100% open-source and written from scratch server replacement. Very fast, efficent, memory-friendly, and resource-friendly, as it is written in C++. Includes support for plugins in Lua, and features a great webadmin interface out-of-the-box. *1.8.x, 1.7.x*
