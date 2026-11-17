@@ -71,6 +71,7 @@ The latest supported and tested version for the work is listed in italic at the 
 - [MCEdit Unified](https://github.com/Khroki/MCEdit-Unified) - The actively developed and maintained fork of MCEdit 1.0, as the original creator has moved on to MCEdit 2.0. Uses pygame. *MCPE 0.13.0, 1.9*
 - [Minecraft Chat](https://github.com/rom1504/MinecraftChat) - A cool online, web-based chat client for Minecraft that lets you connect to regular servers and chat like any other player, from your browser.
 - [Minecraft Console Client](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/1263927-win-mac-linux-minecraft-console-client-1-8-3) - A chat-only lightweight Minecraft client in your console for those occasions where you don't want to start a whole, new, big, resource-hogging Minecraft, and just want to type some commands or chat. Includes chatbots and a chatlogger, and is written in C# (runs on .NET and Mono). *1.8.3*
+- [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Free image-to-block blueprints, material lists and PNG build plans.
 
 ##Server Software
 
